@@ -1,4 +1,4 @@
 ## disclaimer
-Em caso de investigação policial, eu declaro que não tenho envolvimento com este grupo e não sei como estou no mesmo, provavelmente fui inserido por terceiros, declaro que estou disposto a colaborar com as investigações e estou disposto a me apresentar a depoimento se necessário
+No caso de inquérito policial, declaro que não me envolvo nesse grupo, desconheço minhas circunstâncias nele, posso ter sido inserido por terceiro, declaro que estou disposto a colaborar com a investigação e que estou disposto a testemunhar, se necessário
 
 SQLI = SQL Injection. 
